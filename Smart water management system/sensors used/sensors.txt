@@ -1,0 +1,5 @@
+1) Ultra-sonic sensor
+2) Flow-meter sensor
+3) PH-sensor
+4) Turbidity sensor
+5) Temperature sensor
